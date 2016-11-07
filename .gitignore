@@ -1,0 +1,5 @@
+syntax: glob
+output/moc
+output/objects
+project/Makefile
+project/TelitConfigurator.pro.user
